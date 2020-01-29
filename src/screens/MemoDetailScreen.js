@@ -18,7 +18,7 @@ class MemoDetailScreen extends React.Component {
 
         <View style={styles.memoContent}>
           <Text>
-              講座のアイデアです。
+              講座のアイデアだと思います。
           </Text>
         </View>
 
